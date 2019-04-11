@@ -6,9 +6,6 @@ Flow
 
 *The estimated time to complete this lab is 90 minutes.*
 
-.. raw:: html
-
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/aJsB4DQbk1I?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Overview
 ++++++++
 
@@ -534,39 +531,5 @@ What are the key things you should know about **Nutanix Flow**?
 - Security Policies are evaluated in order, and this precedence allows for creation of complex policies.
 
 - Calm can use Categories created in Prism Central to automatically deploy VMs into a pre-existing security policy by default.
-
-Cleanup
-+++++++
-
-.. raw:: html
-
-  <strong><font color="red">Once your lab completion has been validated, PLEASE do your part to remove any unneeded VMs to ensure resources are available for all users on your shared cluster.</font></strong>
-
-If you do **NOT** intend to complete the :ref:`epoch` lab, delete your application deployment in Calm. Otherwise the same deployment can be used, but be sure to change your security policy back to **Monitor** mode.
-
-Getting Connected
-+++++++++++++++++
-
-Have a question about **Nutanix Flow**? Please reach out to the resources below:
-
-+---------------------------------------------------------------------------------+
-|  Flow Product Contacts                                                          |
-+================================+================================================+
-|  Slack Channel                 |  #flow                                         |
-+--------------------------------+------------------------------------------------+
-|  Product Manager               |  Abhishek Tiwari, abhishek.tiwari1@nutanix.com |
-+--------------------------------+------------------------------------------------+
-|  Product Marketing Manager     |  Mike Wronski, michael.wronski@nutanix.com     |
-+--------------------------------+------------------------------------------------+
-|  Technical Marketing Engineer  |  Jason Burns, jason.burns@nutanix.com          |
-+--------------------------------+------------------------------------------------+
-|  Solutions Architect           |  Robert Kintner, robert.kintner@nutanix.com    |
-+--------------------------------+------------------------------------------------+
-|  Founders Team Manager         |  Dan Angst, dan.angst@nutanix.com              |
-+--------------------------------+------------------------------------------------+
-|  Founders Team                 |  Scott Tye, scott.tye@nutanix.com              |
-+--------------------------------+------------------------------------------------+
-|  Founders Team                 |  Jon Jones, jon.jones@nutanix.com              |
-+--------------------------------+------------------------------------------------+
 
 .. |blueprints| image:: images/blueprints.png
