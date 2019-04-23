@@ -1,13 +1,5 @@
 .. title:: Nutanix .Next Flow HOL
 
-..
-  .. toctree::
-    :maxdepth: 2
-    :caption: Nutanix Flow
-    :name: _nutanix_flow
-    :hidden:
-
-    flow/flow
 
 .. toctree::
   :maxdepth: 2
@@ -16,8 +8,6 @@
   :hidden:
 
   taskman/taskman
-  tools_vms/linux_tools_vm
-  tools_vms/windows_tools_vm
 
 .. _flow:
 
@@ -43,7 +33,7 @@ This lab depends on the availability of a multi-tier **Task Manager** web applic
 
 Refer to the :ref:`taskman` lab for instructions on importing and launching the completed **Task Manager** blueprint.
 
-  .. note::
+.. note::
 
   Even if you completed the **Calm: Linux Workloads** lab, please import the above **Task Manager** blueprint.
 
