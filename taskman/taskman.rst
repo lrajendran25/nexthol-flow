@@ -28,7 +28,7 @@ Verifying the Default Project
 
    .. figure:: images/1.png
 
-#. Under **Network**, verify the **Primary** and **Secondary** networks are selected and the **Primary** network is the default. Otherwise, make the selections as shown below.
+#. Under **Network**, verify that the **Primary** network is checked.
 
    .. figure:: images/2.png
 
