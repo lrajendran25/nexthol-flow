@@ -48,17 +48,16 @@ Flow is built into Prism Central and requires no additional appliances or consol
 
   Flow can only be enabled once per Prism Central instance. Flow will require an additional 1GB of memory for each Prism Central VM, but there is no action required by the user as this occurs automatically. Additionally, the enable process verifies that each connected AHV host has at least 1GB of free RAM. The list of Flow capable AHV clusters is listed in the enable window.
 
-  If **Flow** displays a green check mark next to it, that means Flow has already been enabled for the Prism Central instance being used. Proceed to `Securing An Application`_.
+  If **Microsegmentation** displays a green check mark next to it, that means Flow has already been enabled for the Prism Central instance being used. Proceed to `Securing An Application`_.
 
-#. In **Prism Central**, click the **?** drop down menu and select **Flow**.
+#. In **Prism Central**, click the **?** drop down menu and select **Microsegmentation**.
 
    .. figure:: images/10.png
 
    Enabling Flow will require an additional 1GB of memory for each Prism Central VM, but there is no action required by the user as this occurs automatically.
 
-#. Select **Enable Flow** and click **Enable**.
+#. Click Microsegmentation. The Enable Microsegmentation dialog box is displayed. Select the Enable Microsegmentation check box. Click OK.
 
-   .. figure:: images/11.png
 
 Securing An Application
 +++++++++++++++++++++++
@@ -424,7 +423,7 @@ Creating an Isolation Policy
 Deleting a Policy
 .................
 
-#. In **Prism Central**, select :fa:`bars` **> Virtual Infrastructure > Policies > Security Policies**.
+#. In **Prism Central**, select :fa:`bars` **> Policies > Security Policies**.
 
 #. Select *Initials*-**Isolate-dev-prod** and click **Actions > Delete**.
 
